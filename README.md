@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hi there, I'm</h1>
 <h1 align="center">✨ Setiyo Aryo Winata ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I'm+a+Network+Enthusiast!;Always+Learning+New+Tech.;Lover+of+Fiber+and+Packets.💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me
